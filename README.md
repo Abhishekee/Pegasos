@@ -12,5 +12,5 @@ Random dataset is created using sklearn make_classification module. distribution
 
 plot of loss Vs Iterations are given below:
 
-![image](https://user-images.githubusercontent.com/111289395/216756654-ffe60f07-86e3-4549-bdd9-d28e705bb089.png)
+![image](https://user-images.githubusercontent.com/111289395/220623653-c592dc7e-bbc2-4cbf-8445-7d28e79e9aa9.png))
 
